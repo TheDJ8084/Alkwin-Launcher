@@ -1,0 +1,114 @@
+.wrapper {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+}
+
+.stripe {
+    background-color: #FFD500;
+    height: 10px;
+    margin: 0;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+}
+
+.title {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    font-size: 75px;
+}
+
+.logo {
+    display: block;
+    justify-content: left;
+    align-items: left;
+    height: 100px;
+    padding-right: 25px;
+}
+
+.blocks {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+}
+
+.imgsize {
+    height: 200px;
+    margin: 50px;
+    padding: 5px;
+}
+
+.Magister {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+}
+.Magister:hover {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.Zermelo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+}
+.Zermelo:hover {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.Classroom {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+}
+.Classroom:hover {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.GoogleDrive {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+}
+.GoogleDrive:hover {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
